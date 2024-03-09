@@ -1,0 +1,2 @@
+// 深层可执行文件的命令
+pyinstaller --onefile --windowed start.py
